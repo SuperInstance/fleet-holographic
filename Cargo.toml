@@ -1,0 +1,9 @@
+[package]
+name = "fleet-holographic"
+version = "0.1.0"
+edition = "2021"
+description = "Holographic distributed storage: every agent stores the whole pattern, fragment retrieval, interference-resistant"
+license = "MIT"
+authors = ["Forgemaster (Cocapn Fleet)"]
+
+[dependencies]
